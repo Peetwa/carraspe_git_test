@@ -1,0 +1,6 @@
+"Peter Carras" 
+"carraspe@msu.edu" 
+"Economics" 
+"3rd" 
+"Midland" 
+"Python, Java, C++, CSE 232, CMSE 201, CSE 331" 
